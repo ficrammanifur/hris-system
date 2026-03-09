@@ -563,4 +563,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **© 2026 HRIS System Team. All Rights Reserved.**
 
+⬆ [Kembali ke Atas](#top)
+
 </div>
