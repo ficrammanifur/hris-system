@@ -16,7 +16,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
 **Sistem HRIS lengkap dengan backend API, admin dashboard web, dan aplikasi mobile untuk karyawan**
-
+[Domumentasi](https://ficrammanifur.github.io/documentation-hris-unified-ecosystem/)
 </div>
 
 ---
