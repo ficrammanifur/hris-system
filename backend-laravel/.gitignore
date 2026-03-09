@@ -1,0 +1,266 @@
+# Laravel specific
+/vendor/
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+.env.*
+!.env.example
+.phpunit.result.cache
+storage/*.key
+storage/framework/cache/
+storage/framework/sessions/
+storage/framework/views/
+storage/logs/*.log
+Homestead.yaml
+Homestead.json
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.phpstorm.meta.php
+_ide_*.php
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+
+# Composer
+composer.phar
+vendor/
+
+# PHPUnit
+phpunit.xml
+.phpunit.result.cache
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# Database
+*.sqlite
+*.sqlite3
+*.sql
+*.db
+
+# Testing
+coverage/
+phpunit-coverage.xml
+tests/_output/
+tests/_support/_generated/
+
+# Build
+/public/build/
+/public/hot
+/public/storage
+/storage/app/public/
+
+# Backup
+*.back
+*.backup
+*.bak
+
+# Environment
+.env.production
+.env.local
+.env.staging
+.env.development
+.env.testing
+
+# Logs
+storage/logs/
+!storage/logs/.gitkeep
+
+# Cache
+bootstrap/cache/*.php
+!bootstrap/cache/.gitkeep
+
+# Uploads
+storage/app/uploads/
+storage/app/private/
+storage/app/public/uploads/
+
+# Laravel Telescope
+storage/telescope/
+
+# Laravel Nova
+nova/
+
+# Laravel Horizon
+storage/horizon/
+
+# Laravel Dusk
+tests/Browser/console/
+tests/Browser/screenshots/
+
+# Laravel Sail
+docker-compose.yml
+sail
+
+# ESLint
+.eslintcache
+
+# Prettier
+.prettierrc.js
+.prettierignore
+
+# PHP CS Fixer
+.php-cs-fixer.cache
+.php-cs-fixer.php
+
+# Laravel IDE Helper
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+
+# Local development
+.homestead/
+Homestead.json
+Homestead.yaml
+.env.backup
+.phpunit.result.cache
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# SSL certificates
+*.crt
+*.key
+*.pem
+*.csr
+
+# Vagrant
+.vagrant/
+Vagrantfile
+
+# PHP error log
+error_log
+php_errors.log
+
+# Xdebug
+xdebug.log
+
+# npm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Composer lock (if you want to exclude - optional)
+# composer.lock
+
+# Specific to your project
+/public/uploads
+/storage/debugbar
+
+# Ignore all .env files except .env.example
+.env
+.env.*
+!.env.example
+
+# Ignore IDE helper files
+_ide_helper.php
+_ide_helper_models.php
+.phpstorm.meta.php
+
+# Ignore PHPUnit cache
+.phpunit.result.cache
+
+# Ignore Laravel Homestead
+Homestead.yaml
+Homestead.json
+.homestead/
+
+# Ignore Laravel Valet
+.valet/
+
+# Ignore Mac files
+.DS_Store
+._*
+
+# Ignore Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore Linux files
+*~
+.directory
+
+# Ignore backup files
+*.swp
+*.swo
+*.*~
+*.bak
+*.orig
+
+# Ignore logs
+*.log
+storage/logs/*.log
+!storage/logs/.gitkeep
+
+# Ignore caches
+bootstrap/cache/*
+!bootstrap/cache/.gitkeep
+
+# Ignore node_modules
+node_modules/
+
+# Ignore public assets
+public/css
+public/js
+public/mix-manifest.json
+public/hot
+
+# Ignore coverage reports
+coverage/
+.clover
+.crazy-coverage
+.phpunit.result.cache
+phpunit.xml
+.php_cs.cache
+
+# Ignore IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore environment specific
+.env
+.env.*
+!.env.example
+
+# Ignore docker
+docker-compose.override.yml
+.docker/
+
+# Ignore vagrant
+.vagrant/
+
+# Ignore deploy
+.dep/
+deploy.php
+deploy.yaml
+deploy.yml
+
+# Ignore certificates
+*.crt
+*.key
+*.pem
+*.csr

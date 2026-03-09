@@ -1,0 +1,63 @@
+# =========================
+# Flutter / Dart
+# =========================
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Generated files
+generated_plugin_registrant.dart
+
+# =========================
+# Android
+# =========================
+android/.gradle/
+android/app/build/
+android/local.properties
+android/key.properties
+android/**/GeneratedPluginRegistrant.java
+
+# Keystore (IMPORTANT - jangan commit!)
+*.jks
+*.keystore
+
+# =========================
+# iOS
+# =========================
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# =========================
+# Linux / macOS / Windows
+# =========================
+linux/build/
+macos/Pods/
+windows/build/
+
+# =========================
+# VSCode / Android Studio
+# =========================
+.vscode/
+.idea/
+*.iml
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
