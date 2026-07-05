@@ -550,9 +550,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Kontak
 
-- **Developer**: [Nama Developer]
-- **Email**: [developer@example.com]
-- **Project Link**: [https://github.com/yourusername/hris-system](https://github.com/yourusername/hris-system)
+- **Developer**: [Ficrammanifur]
+- **Email**: [ficramm@gmail.com]
+- **Project Link**: [https://github.com/ficrammanifur/hris-system](https://github.com/ficrammanifur/hris-system/tree/main/mobile_flutter)
 
 ---
 
