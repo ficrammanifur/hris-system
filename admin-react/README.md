@@ -234,9 +234,9 @@ MIT License
 
 ## 📬 Kontak
 
-- **Developer**: [Nama Anda]
-- **Email**: [email@example.com]
-- **Project Link**: [https://github.com/yourusername/hris-system](https://github.com/yourusername/hris-system)
+- **Developer**: [Ficrammanifur]
+- **Email**: [Ficramma@gmail.com]
+- **Project Link**: [https://github.com/ficrammanifur/hris-system](https://github.com/ficrammanifur/hris-system/tree/main/admin-react)
 
 ---
 
